@@ -10,15 +10,15 @@ d'exécution réelles, pas juste du code qui "marche en théorie".
 
  PROJECTS
 
-linux-sysadmin-hardening:
+linux-sysadmin-hardening: https://github.com/AGRO-Rachidi/linux-sysadmin-hardening
 Sécurisation complète d'un serveur de production en 7 jours (SSH, pare-feu,
 sauvegardes chiffrées testées, résilience, gestion d'incident).
 
-linux-permissions-multiservice: 
+linux-permissions-multiservice: https://github.com/AGRO-Rachidi/linux-permissions-multiservice
 Architecture de permissions Linux multi-services avec partage réseau Samba
 sécurisé, script d'automatisation idempotent.
 
-port-scanner-rust:
+port-scanner-rust: https://github.com/AGRO-Rachidi/port-scanner-rust
 Scanner de ports en Rust, trois versions comparées : séquentiel,
 multithreadé, asynchrone avec Tokio.
 
