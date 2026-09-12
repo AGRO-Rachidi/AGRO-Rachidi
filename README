@@ -1,0 +1,31 @@
+# Salut, moi c'est AGRO Rachidi Tchêgoun
+
+Étudiant ingénieur en fin de cycle (ENSGMM / UNSTIM, Abomey, Bénin), en
+spécialisation autodidacte sur l'administration système, la sécurité réseau
+et le SOC.
+
+Je documente systématiquement ce que je construis : chaque dépôt ci-dessous
+contient un rapport complet, avec les erreurs rencontrées et les preuves
+d'exécution réelles, pas juste du code qui "marche en théorie".
+
+## Projets
+
+**[linux-sysadmin-hardening](lien-a-completer)**
+Sécurisation complète d'un serveur de production en 7 jours (SSH, pare-feu,
+sauvegardes chiffrées testées, résilience, gestion d'incident).
+
+**[linux-permissions-multiservice](lien-a-completer)**
+Architecture de permissions Linux multi-services avec partage réseau Samba
+sécurisé, script d'automatisation idempotent.
+
+**[port-scanner-rust](lien-a-completer)**
+Scanner de ports en Rust, trois versions comparées : séquentiel,
+multithreadé, asynchrone avec Tokio.
+
+## Ce que je cherche à démontrer
+Pas une liste de technologies à la mode, mais une méthode : comprendre avant
+d'exécuter, tester ce que je crois avoir compris plutôt que le supposer, et
+documenter honnêtement, y compris mes erreurs.
+
+## Me contacter
+linkedin.com/in/tchêgoun-rachidi-agro-a98b66281
