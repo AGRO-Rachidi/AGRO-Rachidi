@@ -22,6 +22,9 @@ port-scanner-rust: https://github.com/AGRO-Rachidi/port-scanner-rust
 Scanner de ports en Rust, trois versions comparées : séquentiel,
 multithreadé, asynchrone avec Tokio.
 
+cisco-networking-labs: https://github.com/AGRO-Rachidi/cisco-networking-labs
+Six labos réseau Cisco Packet Tracer : VLAN, ACL, routage statique/RIP/OSPF, VLSM, architecture multi-sites.
+
 Ce que je cherche à démontrer
 Pas une liste de technologies à la mode, mais une méthode : comprendre avant
 d'exécuter, tester ce que je crois avoir compris plutôt que le supposer, et
