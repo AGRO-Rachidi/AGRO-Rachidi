@@ -8,22 +8,33 @@ Je documente systématiquement ce que je construis : chaque dépôt ci-dessous
 contient un rapport complet, avec les erreurs rencontrées et les preuves
 d'exécution réelles, pas juste du code qui "marche en théorie".
 
+Portfolio : https://agro-rachidi.github.io
+
  PROJECTS
 
 linux-sysadmin-hardening: https://github.com/AGRO-Rachidi/linux-sysadmin-hardening
-Sécurisation complète d'un serveur de production en 7 jours (SSH, pare-feu,
-sauvegardes chiffrées testées, résilience, gestion d'incident).
+Sécurisation en 7 jours d'un serveur Linux simulé (Ubuntu sous Docker), selon un
+cahier des charges de production (SSH, pare-feu, sauvegardes chiffrées testées,
+résilience, gestion d'incident).
 
 linux-permissions-multiservice: https://github.com/AGRO-Rachidi/linux-permissions-multiservice
 Architecture de permissions Linux multi-services avec partage réseau Samba
 sécurisé, script d'automatisation idempotent.
 
+cisco-networking-labs: https://github.com/AGRO-Rachidi/cisco-networking-labs
+Six labos réseau Cisco Packet Tracer : VLAN, ACL, routage statique/RIP/OSPF, VLSM, architecture multi-sites.
+
 port-scanner-rust: https://github.com/AGRO-Rachidi/port-scanner-rust
 Scanner de ports en Rust, trois versions comparées : séquentiel,
 multithreadé, asynchrone avec Tokio.
 
-cisco-networking-labs: https://github.com/AGRO-Rachidi/cisco-networking-labs
-Six labos réseau Cisco Packet Tracer : VLAN, ACL, routage statique/RIP/OSPF, VLSM, architecture multi-sites.
+cassandra-wide-column-study: https://github.com/AGRO-Rachidi/cassandra-wide-column-study
+Projet de groupe : cluster Cassandra de 3 nœuds sous Docker, test de panne en
+QUORUM, et comparaison chiffrée avec PostgreSQL sur dix ans de données.
+
+hpc-fortran-mpi: https://github.com/AGRO-Rachidi/hpc-fortran-mpi
+Programmation parallèle en Fortran avec MPI, du premier échange de messages
+à la répartition dynamique maître–esclaves.
 
 Ce que je cherche à démontrer
 Pas une liste de technologies à la mode, mais une méthode : comprendre avant
